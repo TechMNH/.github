@@ -1,4 +1,4 @@
-![Void Logo](void_logo_dark_360_github.png "Void Logo")
+![Void Logo](../void_logo_dark_360_github.png "Void Logo")
 
 ## Hi there 👋 greetings from Void
 
